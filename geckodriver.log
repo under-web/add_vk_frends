@@ -1,0 +1,54 @@
+1619110345944	geckodriver	INFO	Listening on 127.0.0.1:56643
+1619110346929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFcpyUq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619110353777	Marionette	INFO	Listening on port 41245
+1619110353873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://vk.com/, line 375: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+1619110381775	Marionette	INFO	Stopped listening on port 41245
+1619110650788	geckodriver	INFO	Listening on 127.0.0.1:36193
+1619110650806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePjSg6N"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619110654815	Marionette	INFO	Listening on port 41807
+1619110654872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1619110694077	Marionette	INFO	Stopped listening on port 41807
+1619110978712	geckodriver	INFO	Listening on 127.0.0.1:37997
+1619110978723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemRBnjy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619110982652	Marionette	INFO	Listening on port 37883
+1619110982785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1619110994022	Marionette	INFO	Stopped listening on port 37883
+1619112421757	geckodriver	INFO	Listening on 127.0.0.1:59213
+1619112421769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec63pW5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619112426776	Marionette	INFO	Listening on port 39813
+1619112426892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1619112440726	Marionette	INFO	Stopped listening on port 39813
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619112768074	geckodriver	INFO	Listening on 127.0.0.1:45807
+1619112768087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP1sH2p"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619112772764	Marionette	INFO	Listening on port 45595
+1619112772855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+1619112788981	Marionette	INFO	Stopped listening on port 45595
+1619112851067	geckodriver	INFO	Listening on 127.0.0.1:40839
+1619112851077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK3fEZO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619112854749	Marionette	INFO	Listening on port 43089
+1619112854822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+1619112877135	Marionette	INFO	Stopped listening on port 43089
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
