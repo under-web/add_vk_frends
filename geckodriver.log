@@ -52,3 +52,1005 @@ JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff0
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1619114462664	geckodriver	INFO	Listening on 127.0.0.1:37057
+1619114462686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOZZzjX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619114467231	Marionette	INFO	Listening on port 39811
+1619114467339	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619114477728	Marionette	INFO	Stopped listening on port 39811
+1619114490118	geckodriver	INFO	Listening on 127.0.0.1:37137
+1619114490127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletwgGmS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619114494311	Marionette	INFO	Listening on port 39165
+1619114494487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+1619114619574	Marionette	INFO	Stopped listening on port 39165
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619114796403	geckodriver	INFO	Listening on 127.0.0.1:56923
+1619114796411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerEPI58"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619114800544	Marionette	INFO	Listening on port 36671
+1619114800657	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+
+(firefox:15790): GLib-GObject-CRITICAL **: 14:07:46.757: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15790): GLib-GObject-CRITICAL **: 14:07:46.758: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15790): GLib-GObject-CRITICAL **: 14:07:46.766: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15790): GLib-GObject-CRITICAL **: 14:07:46.767: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15790): GLib-GObject-CRITICAL **: 14:07:46.768: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15790): GLib-GObject-CRITICAL **: 14:07:46.806: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15790): GLib-GObject-CRITICAL **: 14:07:47.195: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1619114874712	Marionette	INFO	Stopped listening on port 36671
+1619114925793	geckodriver	INFO	Listening on 127.0.0.1:34901
+1619114925802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKkXJDt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619114930079	Marionette	INFO	Listening on port 33239
+1619114930173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+1619114987953	Marionette	INFO	Stopped listening on port 33239
+1619119464675	geckodriver	INFO	Listening on 127.0.0.1:48949
+1619119464767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileskvGKr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619119469568	Marionette	INFO	Listening on port 42415
+1619119469635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1619120253931	Marionette	INFO	Stopped listening on port 42415
+1619120439806	geckodriver	INFO	Listening on 127.0.0.1:45323
+1619120439816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileddwvUZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619120444942	Marionette	INFO	Listening on port 43867
+1619120445069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+1619120560599	geckodriver	INFO	Listening on 127.0.0.1:35223
+1619120560607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexD1TO7"
+1619120562205	Marionette	INFO	Stopped listening on port 43867
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619120565922	Marionette	INFO	Listening on port 35051
+1619120566051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+1619120716263	geckodriver	INFO	Listening on 127.0.0.1:48725
+1619120716273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled4EKZW"
+1619120718054	Marionette	INFO	Stopped listening on port 35051
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619120721226	Marionette	INFO	Listening on port 44979
+1619120721387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+JavaScript error: https://vk.com/feed, line 2256: NetworkError: A network error occurred.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1619120755829	Marionette	INFO	Stopped listening on port 44979
+1619120769132	geckodriver	INFO	Listening on 127.0.0.1:38287
+1619120769145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8EU7kS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619120773338	Marionette	INFO	Listening on port 40291
+1619120773419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+JavaScript error: https://vk.com/feed, line 2256: NetworkError: A network error occurred.
+1619120981109	Marionette	INFO	Stopped listening on port 40291
+1619120982489	geckodriver	INFO	Listening on 127.0.0.1:40845
+1619120982497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP0kYhv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619120986475	Marionette	INFO	Listening on port 43549
+1619120986538	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+1619121022553	Marionette	INFO	Stopped listening on port 43549
+1619121043117	geckodriver	INFO	Listening on 127.0.0.1:39333
+1619121043131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTZSBFD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619121047805	Marionette	INFO	Listening on port 35785
+1619121047876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+1619121088914	Marionette	INFO	Stopped listening on port 35785
+1619121238698	geckodriver	INFO	Listening on 127.0.0.1:57851
+1619121238709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAMamHW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619121242774	Marionette	INFO	Listening on port 42647
+1619121242906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619121242955	geckodriver	INFO	Listening on 127.0.0.1:43431
+1619121243963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXqa8s4"
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619121248292	Marionette	INFO	Listening on port 32925
+1619121248405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619121252100	Marionette	INFO	Stopped listening on port 32925
+1619121252688	geckodriver	INFO	Listening on 127.0.0.1:53843
+1619121253045	Marionette	INFO	Stopped listening on port 42647
+1619121253700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec7g9pl"
+Exiting due to channel error.
+Exiting due to channel error.
+1619121287559	geckodriver	INFO	Listening on 127.0.0.1:38313
+1619121287570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6dCsoC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619121291998	Marionette	INFO	Listening on port 33007
+1619121292111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1619121300660	Marionette	INFO	Stopped listening on port 33007
+1619121426343	geckodriver	INFO	Listening on 127.0.0.1:49359
+1619121426351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev0D8vX"
+*** You are running in headless mode.
+
+(/usr/lib64/firefox/firefox:7522): GLib-GObject-CRITICAL **: 15:57:07.756: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:7539): GLib-GObject-CRITICAL **: 15:57:07.956: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:7604): GLib-GObject-CRITICAL **: 15:57:09.172: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619121429598	Marionette	INFO	Listening on port 43953
+1619121429701	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:7639): GLib-GObject-CRITICAL **: 15:57:09.709: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1619121477700	geckodriver	INFO	Listening on 127.0.0.1:44191
+1619121477709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZxIvOY"
+*** You are running in headless mode.
+
+(/usr/lib64/firefox/firefox:7853): GLib-GObject-CRITICAL **: 15:57:59.338: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:7870): GLib-GObject-CRITICAL **: 15:57:59.576: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:7933): GLib-GObject-CRITICAL **: 15:58:00.948: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619121481631	Marionette	INFO	Listening on port 44629
+
+(/usr/lib64/firefox/firefox:7968): GLib-GObject-CRITICAL **: 15:58:01.808: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619121481844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1619121788571	geckodriver	INFO	Listening on 127.0.0.1:57943
+1619121788732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezl8NdB"
+*** You are running in headless mode.
+
+(/usr/lib64/firefox/firefox:8341): GLib-GObject-CRITICAL **: 16:03:11.376: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:8363): GLib-GObject-CRITICAL **: 16:03:11.729: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:8435): GLib-GObject-CRITICAL **: 16:03:13.672: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:8459): GLib-GObject-CRITICAL **: 16:03:14.218: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619121794368	Marionette	INFO	Listening on port 33911
+1619121794529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1619121852343	geckodriver	INFO	Listening on 127.0.0.1:52497
+1619121852352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezplpmd"
+*** You are running in headless mode.
+
+(/usr/lib64/firefox/firefox:8689): GLib-GObject-CRITICAL **: 16:04:14.402: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:8706): GLib-GObject-CRITICAL **: 16:04:14.650: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:8772): GLib-GObject-CRITICAL **: 16:04:16.216: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619121856934	Marionette	INFO	Listening on port 38577
+1619121857026	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:8804): GLib-GObject-CRITICAL **: 16:04:17.270: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-89.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1619121906581	geckodriver	INFO	Listening on 127.0.0.1:57437
+1619121906600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1OkF8y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619121914924	Marionette	INFO	Listening on port 40979
+1619121915157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+1619121971930	geckodriver	INFO	Listening on 127.0.0.1:54005
+1619121972016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileurtw1l"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619121973133	Marionette	INFO	Stopped listening on port 40979
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619121982802	Marionette	INFO	Listening on port 36059
+1619121983109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-89.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+JavaScript error: https://st1-27.vk.com/js/cmodules/web/page.222539001bd1178bce57.js?a04cab6daca6824a63c1a849c6bde80c, line 1: TypeError: window.VideoInlineUpload is undefined
+1619122087709	Marionette	INFO	Stopped listening on port 36059
+1619122091990	geckodriver	INFO	Listening on 127.0.0.1:37969
+1619122092011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegvvMjJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1619122096901	Marionette	INFO	Listening on port 45301
+1619122096962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619122106828	Marionette	INFO	Stopped listening on port 45301
+1619122108376	geckodriver	INFO	Listening on 127.0.0.1:56035
+1619122109382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegFpyCL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619122114435	Marionette	INFO	Listening on port 33753
+1619122114538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1619122401522	geckodriver	INFO	Listening on 127.0.0.1:41009
+1619122401606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelXNQQw"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1619122403441	Marionette	INFO	Stopped listening on port 33753
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619122408634	Marionette	INFO	Listening on port 41459
+1619122408686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1619122827331	Marionette	INFO	Stopped listening on port 41459
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619122840099	geckodriver	INFO	Listening on 127.0.0.1:34399
+1619122840108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXt9N56"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619122845411	Marionette	INFO	Listening on port 37399
+1619122845510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+1619123168698	geckodriver	INFO	Listening on 127.0.0.1:41157
+1619123168712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3IDMnb"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1619123171515	Marionette	INFO	Stopped listening on port 37399
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619123175227	Marionette	INFO	Listening on port 36001
+1619123175352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+1619123241293	Marionette	INFO	Stopped listening on port 36001
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619123242483	geckodriver	INFO	Listening on 127.0.0.1:39255
+1619123242493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegrKUVk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619123246905	Marionette	INFO	Listening on port 38543
+1619123246986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+1619123466890	geckodriver	INFO	Listening on 127.0.0.1:55279
+1619123466899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehow7kx"
+1619123468310	Marionette	INFO	Stopped listening on port 38543
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619123472390	Marionette	INFO	Listening on port 37817
+1619123472505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1619123620825	geckodriver	INFO	Listening on 127.0.0.1:56963
+1619123620834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW3TiIt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619123625454	Marionette	INFO	Listening on port 44459
+1619123625700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+1619123717847	Marionette	INFO	Stopped listening on port 44459
+1619123718815	geckodriver	INFO	Listening on 127.0.0.1:58553
+1619123718824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3UvBUr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619123723334	Marionette	INFO	Listening on port 34411
+1619123723398	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619123918470	Marionette	INFO	Stopped listening on port 34411
+1619123927804	geckodriver	INFO	Listening on 127.0.0.1:33473
+1619123927812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRHJqbt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619123932342	Marionette	INFO	Listening on port 46749
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619123932469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+JavaScript error: https://vk.com/feed, line 1967: NetworkError: A network error occurred.
+1619123969877	Marionette	INFO	Stopped listening on port 46749
+1619124210610	geckodriver	INFO	Listening on 127.0.0.1:35465
+1619124210627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUAjj1m"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619124215075	Marionette	INFO	Listening on port 33645
+1619124215216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+JavaScript error: https://vk.com/feed, line 1977: NetworkError: A network error occurred.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1619125056716	Marionette	INFO	Stopped listening on port 33645
+1619125113001	geckodriver	INFO	Listening on 127.0.0.1:32895
+1619125113054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXhlJAY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619125121213	Marionette	INFO	Listening on port 36623
+1619125121337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619125155476	Marionette	INFO	Stopped listening on port 36623
+1619125273609	geckodriver	INFO	Listening on 127.0.0.1:35595
+1619125273619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3VinOl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619125278345	Marionette	INFO	Listening on port 40625
+1619125278580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-29.vk.com/js/cmodules/bundles/evbus.7173a752f3af05e98b80.js?296ddd681cb24579ee89, line 1: TypeError: t is null
+JavaScript error: https://st1-29.vk.com/js/cmodules/bundles/evbus.7173a752f3af05e98b80.js?296ddd681cb24579ee89, line 1: NS_ERROR_NOT_INITIALIZED: 
+1619125302266	Marionette	INFO	Stopped listening on port 40625
+1619125888761	geckodriver	INFO	Listening on 127.0.0.1:57631
+1619125888773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileanrQKF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619125893396	Marionette	INFO	Listening on port 35951
+1619125893544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1619125914556	Marionette	INFO	Stopped listening on port 35951
+1619125972410	geckodriver	INFO	Listening on 127.0.0.1:47781
+1619125972425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSsBZ1m"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619125977815	Marionette	INFO	Listening on port 40323
+1619125977958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.68d73b762d21ff09e0c1.js?37da11856286990acbfdf41c1921ce04, line 1: TypeError: window.Calls is undefined
+1619126006804	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619126236309	Marionette	INFO	Stopped listening on port 40323
+1619126266204	geckodriver	INFO	Listening on 127.0.0.1:55101
+1619126266247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1pFlbH"
+*** You are running in headless mode.
+
+(/usr/lib64/firefox/firefox:16242): GLib-GObject-CRITICAL **: 17:17:50.330: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:16264): GLib-GObject-CRITICAL **: 17:17:50.591: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:16322): GLib-GObject-CRITICAL **: 17:17:52.405: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:16349): GLib-GObject-CRITICAL **: 17:17:52.757: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619126273023	Marionette	INFO	Listening on port 40427
+1619126273129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.846cf6ad1b2b2407e8d4.js?13d3c4947febb2ac11c7714fa0f508f5, line 1: TypeError: window.Calls is undefined
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619127060629	geckodriver	INFO	Listening on 127.0.0.1:48675
+1619127061620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCA8vFl"
+*** You are running in headless mode.
+
+(/usr/lib64/firefox/firefox:16867): GLib-GObject-CRITICAL **: 17:31:05.125: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:16884): GLib-GObject-CRITICAL **: 17:31:05.331: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:16955): GLib-GObject-CRITICAL **: 17:31:06.927: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619127067606	Marionette	INFO	Listening on port 45669
+
+(/usr/lib64/firefox/firefox:16988): GLib-GObject-CRITICAL **: 17:31:07.613: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619127067691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.846cf6ad1b2b2407e8d4.js?13d3c4947febb2ac11c7714fa0f508f5, line 1: TypeError: window.Calls is undefined
+1619127094575	Marionette	INFO	Stopped listening on port 45669
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619127125611	geckodriver	INFO	Listening on 127.0.0.1:57969
+1619127125670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGLUMum"
+*** You are running in headless mode.
+
+(/usr/lib64/firefox/firefox:17164): GLib-GObject-CRITICAL **: 17:32:08.436: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:17181): GLib-GObject-CRITICAL **: 17:32:08.667: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:17248): GLib-GObject-CRITICAL **: 17:32:10.023: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619127130625	Marionette	INFO	Listening on port 40569
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619127130741	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:17281): GLib-GObject-CRITICAL **: 17:32:10.770: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.846cf6ad1b2b2407e8d4.js?13d3c4947febb2ac11c7714fa0f508f5, line 1: TypeError: window.Calls is undefined
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1619129858130	Marionette	INFO	Stopped listening on port 40569
+1619133157466	geckodriver	INFO	Listening on 127.0.0.1:39027
+1619133157635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK3GQAr"
+*** You are running in headless mode.
+
+(/usr/lib64/firefox/firefox:19878): GLib-GObject-CRITICAL **: 19:12:44.675: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:19901): GLib-GObject-CRITICAL **: 19:12:45.050: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:19958): GLib-GObject-CRITICAL **: 19:12:47.316: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+(/usr/lib64/firefox/firefox:19993): GLib-GObject-CRITICAL **: 19:12:47.965: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619133168024	Marionette	INFO	Listening on port 38363
+1619133168142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.846cf6ad1b2b2407e8d4.js?13d3c4947febb2ac11c7714fa0f508f5, line 1: TypeError: window.Calls is undefined
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.c7a5ce8b6c04e8cacb52.js?fd65f21dfef0c5a0f230, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1619134271800	Marionette	INFO	Stopped listening on port 38363
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619134836249	geckodriver	INFO	Listening on 127.0.0.1:50777
+1619134836445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVU7xyN"
+*** You are running in headless mode.
+
+(/usr/lib64/firefox/firefox:20938): GLib-GObject-CRITICAL **: 19:40:44.596: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:20944): GLib-GObject-CRITICAL **: 19:40:44.602: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619134847287	Marionette	INFO	Listening on port 37875
+1619134847520	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:21031): GLib-GObject-CRITICAL **: 19:40:48.601: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:21070): GLib-GObject-CRITICAL **: 19:40:49.225: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-29.vk.com/js/cmodules/web/grip.321440bc0e99c60c8842.js?c7f2966fcd3f7ef0660eac232fe84deb, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.0eab181577fa7a335fc8.js?5f977b4e3aaf40d6f3c2523521442548, line 1: TypeError: window.Calls is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1619134872301	Marionette	INFO	Stopped listening on port 38577
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.a9830c888fe2caa7d9e8.js?2d62736e24bf97e503f3, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.a9830c888fe2caa7d9e8.js?2d62736e24bf97e503f3, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.a9830c888fe2caa7d9e8.js?2d62736e24bf97e503f3, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st1-27.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.a9830c888fe2caa7d9e8.js?2d62736e24bf97e503f3, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
