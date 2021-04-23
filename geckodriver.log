@@ -1155,3 +1155,45 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
 JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.0eab181577fa7a335fc8.js?5f977b4e3aaf40d6f3c2523521442548, line 1: TypeError: window.Calls is undefined
 1619146895279	Marionette	INFO	Stopped listening on port 33947
+1619187962873	geckodriver	INFO	Listening on 127.0.0.1:59981
+1619187962963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN0IWQR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619187967895	Marionette	INFO	Listening on port 40733
+1619187968075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-85.vk.com/js/cmodules/web/notifier.0eab181577fa7a335fc8.js?5f977b4e3aaf40d6f3c2523521442548, line 1: TypeError: window.Calls is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1619188290843	geckodriver	INFO	Listening on 127.0.0.1:34929
+1619188290854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyzyLXj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619188295778	Marionette	INFO	Listening on port 34535
+1619188295970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-85.vk.com/js/cmodules/web/notifier.0eab181577fa7a335fc8.js?5f977b4e3aaf40d6f3c2523521442548, line 1: TypeError: window.Calls is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619188457580	geckodriver	INFO	Listening on 127.0.0.1:58047
+1619188457590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8sKlkp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619188464622	Marionette	INFO	Listening on port 44547
+1619188464890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-85.vk.com/js/cmodules/web/notifier.0eab181577fa7a335fc8.js?5f977b4e3aaf40d6f3c2523521442548, line 1: TypeError: window.Calls is undefined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
