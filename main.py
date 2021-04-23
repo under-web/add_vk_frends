@@ -9,8 +9,8 @@ def sender_vk_spam():
     global browser
     phone = input('Enter your phone or email: ')
     if phone == '':
-        phone = ''
-        password = ''
+        phone = '+79870674092'
+        password = 'Berserkdao11'
         message_file = 'message.txt'
         iteration = 1000
         interval = 99
@@ -43,6 +43,7 @@ def sender_vk_spam():
         # TODO: Добавить отсчет отправленых сообщений
         # TODO: Добавить рандомизацию в тайминги и сообщения
         # TODO: Настроить прокси решение https://coderoad.ru/18719980/%D0%9F%D1%80%D0%BE%D0%BA%D1%81%D0%B8-Selenium-Python-Firefox
+        # TODO: библиотека python прокси
         for i in range(iteration):
             try:
                 browser.find_element_by_xpath('//*[@id="post_field"]').click()
