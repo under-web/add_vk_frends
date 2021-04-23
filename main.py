@@ -36,7 +36,7 @@ def sender_vk_spam():
         print('Авторизовался')
 
         time.sleep(12)
-        browser.execute_script("window.open('https://vk.com/twi79');")
+        browser.execute_script("window.open('https://vk.com/tomanyfriends');")
         time.sleep(3)
         browser.switch_to.window(browser.window_handles[1])
         time.sleep(3)

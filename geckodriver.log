@@ -1134,3 +1134,24 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
 JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.0eab181577fa7a335fc8.js?5f977b4e3aaf40d6f3c2523521442548, line 1: TypeError: window.Calls is undefined
 1619142057169	Marionette	INFO	Stopped listening on port 46455
+1619146404817	geckodriver	INFO	Listening on 127.0.0.1:54789
+1619146404827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDpK460"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619146409501	Marionette	INFO	Listening on port 46033
+1619146409574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.0eab181577fa7a335fc8.js?5f977b4e3aaf40d6f3c2523521442548, line 1: TypeError: window.Calls is undefined
+JavaScript error: https://vk.com/feed, line 1907: NetworkError: A network error occurred.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619146831420	geckodriver	INFO	Listening on 127.0.0.1:55317
+1619146831430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3a1Fi8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619146835793	Marionette	INFO	Listening on port 33947
+1619146835885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st1-29.vk.com/js/cmodules/web/notifier.0eab181577fa7a335fc8.js?5f977b4e3aaf40d6f3c2523521442548, line 1: TypeError: window.Calls is undefined
+1619146895279	Marionette	INFO	Stopped listening on port 33947
