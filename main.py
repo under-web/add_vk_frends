@@ -25,7 +25,7 @@ def sender_vk_spam():
         opts.headless = True
         assert opts.headless
 
-        browser = webdriver.Firefox(options=opts)
+        browser = webdriver.Firefox()
         browser.get('https://vk.com/')
         time.sleep(1)
         browser.find_element_by_id('index_email').send_keys(phone)
@@ -42,6 +42,7 @@ def sender_vk_spam():
         time.sleep(3)
         # TODO: Добавить отсчет отправленых сообщений
         # TODO: Добавить рандомизацию в тайминги и сообщения
+        # TODO: Настроить прокси решение https://coderoad.ru/18719980/%D0%9F%D1%80%D0%BE%D0%BA%D1%81%D0%B8-Selenium-Python-Firefox
         for i in range(iteration):
             try:
                 browser.find_element_by_xpath('//*[@id="post_field"]').click()
@@ -72,7 +73,9 @@ def sender_vk_spam():
         browser.close()
         browser.quit()
 
-
+    finally:
+        browser.close()
+        browser.quit()
 def main():
     sender_vk_spam()
 
