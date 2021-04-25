@@ -10,8 +10,8 @@ def sender_vk_spam():
 
     phone = input('Enter your phone or email: ')
     if phone == '':
-        phone = ''
-        password = ''
+        phone = '+79870674092'
+        password = 'Berserkdao'
         message_file = 'message.txt'
 
 
@@ -26,8 +26,8 @@ def sender_vk_spam():
             opts.headless = True
             assert opts.headless
 
-            # browser = webdriver.Firefox(options=opts)
-            browser = webdriver.Firefox()
+            browser = webdriver.Firefox(options=opts)
+            # browser = webdriver.Firefox()
             browser.get('https://vk.com/')
             time.sleep(1)
             browser.find_element_by_id('index_email').send_keys(phone)
@@ -41,11 +41,12 @@ def sender_vk_spam():
         except Exception as err:
             print('Проблема с авторизацией', err)
             time.sleep(10)
-    nbr = 3
+    nbr = 0
     vkl = 1
     while True:
         if nbr == 8:
             nbr = 0
+            print('Обновил переменную')
         else:
             pass
         vk_frend_group = ['dobav_like_repost_piar',
@@ -58,24 +59,24 @@ def sender_vk_spam():
                           'club77713352',
                           'kamdee',
                           ]
-
-        vkgroup = 'https://vk.com/' + vk_frend_group[nbr]
-        browser.execute_script("window.open('{}');".format(vkgroup))
-        time.sleep(3)
-        browser.switch_to.window(browser.window_handles[vkl])
-        time.sleep(3)
-        # TODO: Добавить отсчет отправленых сообщений
-        # TODO: Добавить поочередное обращение к разным группам
-        # TODO: Настроить прокси решение https://coderoad.ru/18719980/%D0%9F%D1%80%D0%BE%D0%BA%D1%81%D0%B8-Selenium-Python-Firefox
-        # TODO: библиотека python прокси
-        # TODO: написать автоприем друзей
-        # TODO: записать поиск боксов в отдельную функцию
-        # TODO: написать автоотправку заявок в друзья
-        # TODO: добавить время отправки сообщений в лог
-        # TODO: добавить отправку своих сообщений в переменно в коментарии и на стены разных групп
-        # TODO: Что то с драйвером Message: Element <div id="post_field" class="submit_post_field dark submit_post_inited"> is not clickable at point (661,537) because another element <div id="box_layer_wrap" class="scroll_fix_wrap fixed"> obscures it
-
         try:
+            vkgroup = 'https://vk.com/' + vk_frend_group[nbr]
+            browser.execute_script("window.open('{}');".format(vkgroup))
+            time.sleep(3)
+            browser.switch_to.window(browser.window_handles[vkl])
+            time.sleep(3)
+            # TODO: Добавить отсчет отправленых сообщений
+            # TODO: Добавить поочередное обращение к разным группам
+            # TODO: Настроить прокси решение https://coderoad.ru/18719980/%D0%9F%D1%80%D0%BE%D0%BA%D1%81%D0%B8-Selenium-Python-Firefox
+            # TODO: библиотека python прокси
+            # TODO: написать автоприем друзей
+            # TODO: записать поиск боксов в отдельную функцию
+            # TODO: написать автоотправку заявок в друзья
+            # TODO: добавить время отправки сообщений в лог
+            # TODO: добавить отправку своих сообщений в переменно в коментарии и на стены разных групп
+            # TODO: Что то с драйвером Message: Element <div id="post_field" class="submit_post_field dark submit_post_inited"> is not clickable at point (661,537) because another element <div id="box_layer_wrap" class="scroll_fix_wrap fixed"> obscures it
+
+
             browser.find_element_by_xpath('//*[@id="post_field"]').click()
             print('click')
 
@@ -88,24 +89,28 @@ def sender_vk_spam():
 
             time.sleep(1)
             browser.find_element_by_id('send_post').click()
-            print(f'{nbr} сообщение отправлено')
-            time.sleep(random.randint(240, 600))
+            print(f'{nbr} сообщение отправлено в {vk_frend_group[nbr]}')
+            time.sleep(random.randint(120, 380))
             nbr += 1
-
+            vkl += 1
+            # TODO: блок с автодобавлением друзей
         except selenium.common.exceptions.WebDriverException as e:
             print('Что то с драйвером', e)
             nbr += 1
+            vkl += 1
             time.sleep(20)
             continue
 
         except Exception as e:
             print('Непредвиденная ошибка', e)
-            browser.close()
-            browser.quit()
+            # browser.close()
+            # browser.quit()
+            time.sleep(3)
+            continue
 
-        finally:
-            browser.close()
-            browser.quit()
+        # finally:
+        #     browser.close()
+        #     browser.quit()
 
 
 def main():
