@@ -1450,3 +1450,316 @@ JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1619319472247	geckodriver	INFO	Listening on 127.0.0.1:49859
+1619319472377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM8p0fm"
+*** You are running in headless mode.
+
+(/usr/lib64/firefox/firefox:7803): GLib-GObject-CRITICAL **: 22:57:54.471: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:7820): GLib-GObject-CRITICAL **: 22:57:54.684: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:7891): GLib-GObject-CRITICAL **: 22:57:56.393: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:7924): GLib-GObject-CRITICAL **: 22:57:57.258: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619319477322	Marionette	INFO	Listening on port 43125
+
+(/usr/lib64/firefox/firefox:7926): GLib-GObject-CRITICAL **: 22:57:57.403: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619319477753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://st.vk.com/js/cmodules/web/notifier.a2f0e41eadfe778dbdaf.js?8110a0d081be4e167e2cf6b5c6d39e9b, line 1: TypeError: window.Calls is undefined
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://st.vk.com/js/cmodules/bundles/evbus.f62d6f201054d4f5cc1e.js?419b72a44fb4fc8d5508, line 1: TypeError: t is null
+JavaScript error: https://st.vk.com/js/cmodules/bundles/evbus.f62d6f201054d4f5cc1e.js?419b72a44fb4fc8d5508, line 1: NS_ERROR_NOT_INITIALIZED: 
+1619319710311	Marionette	INFO	Stopped listening on port 43125
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619319916521	geckodriver	INFO	Listening on 127.0.0.1:51623
+1619319916564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4EiTd6"
+*** You are running in headless mode.
+
+(/usr/lib64/firefox/firefox:8418): GLib-GObject-CRITICAL **: 23:05:18.219: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:8435): GLib-GObject-CRITICAL **: 23:05:18.432: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:8501): GLib-GObject-CRITICAL **: 23:05:19.685: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619319920355	Marionette	INFO	Listening on port 35387
+
+(/usr/lib64/firefox/firefox:8533): GLib-GObject-CRITICAL **: 23:05:20.482: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619319920523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://st.vk.com/js/cmodules/web/notifier.a2f0e41eadfe778dbdaf.js?8110a0d081be4e167e2cf6b5c6d39e9b, line 1: TypeError: window.Calls is undefined
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619375685131	geckodriver	INFO	Listening on 127.0.0.1:45993
+1619375685344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezZd0Ix"
+1619375689711	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619375694500	Marionette	INFO	Listening on port 40289
+1619375694549	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st.vk.com/js/cmodules/web/notifier.a2f0e41eadfe778dbdaf.js?8110a0d081be4e167e2cf6b5c6d39e9b, line 1: TypeError: window.Calls is undefined
+1619375841681	Marionette	INFO	Stopped listening on port 40289
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619375895854	geckodriver	INFO	Listening on 127.0.0.1:46871
+1619375895873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOWmuz9"
+1619375896746	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619375900544	Marionette	INFO	Listening on port 44271
+1619375900621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st.vk.com/js/cmodules/web/notifier.a2f0e41eadfe778dbdaf.js?8110a0d081be4e167e2cf6b5c6d39e9b, line 1: TypeError: window.Calls is undefined
+1619376064396	geckodriver	INFO	Listening on 127.0.0.1:46213
+1619376064447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejWgWxP"
+1619376065279	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619376069041	Marionette	INFO	Listening on port 43501
+1619376069131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619376098381	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619376124561	Marionette	INFO	Stopped listening on port 44271
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619376161246	geckodriver	INFO	Listening on 127.0.0.1:42661
+1619376161256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY0lwJv"
+1619376162119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619376165800	Marionette	INFO	Listening on port 34533
+1619376165943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1619376168449	Marionette	INFO	Stopped listening on port 34533
+1619376169602	Marionette	INFO	Stopped listening on port 43501
+1619376191059	geckodriver	INFO	Listening on 127.0.0.1:51955
+1619376191069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0TAEzW"
+1619376191781	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619376195298	Marionette	INFO	Listening on port 38473
+1619376195432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st.vk.com/js/cmodules/web/notifier.a2f0e41eadfe778dbdaf.js?8110a0d081be4e167e2cf6b5c6d39e9b, line 1: TypeError: window.Calls is undefined
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619376416945	Marionette	INFO	Stopped listening on port 38473
+1619376442256	geckodriver	INFO	Listening on 127.0.0.1:40515
+1619376442265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile64T4U4"
+1619376442970	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619376446454	Marionette	INFO	Listening on port 35631
+1619376446544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st.vk.com/js/cmodules/web/notifier.a2f0e41eadfe778dbdaf.js?8110a0d081be4e167e2cf6b5c6d39e9b, line 1: TypeError: window.Calls is undefined
+1619376508523	geckodriver	INFO	Listening on 127.0.0.1:48691
+1619376508531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelSiLRA"
+1619376509264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1619376512140	Marionette	INFO	Stopped listening on port 35631
+1619376513634	Marionette	INFO	Listening on port 42635
+1619376513707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st.vk.com/js/cmodules/web/notifier.a2f0e41eadfe778dbdaf.js?8110a0d081be4e167e2cf6b5c6d39e9b, line 1: TypeError: window.Calls is undefined
+1619376560387	Marionette	INFO	Stopped listening on port 42635
+1619376667399	geckodriver	INFO	Listening on 127.0.0.1:37667
+1619376667408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea13sOW"
+1619376668259	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619376672363	Marionette	INFO	Listening on port 45843
+1619376672474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st.vk.com/js/cmodules/web/notifier.a2f0e41eadfe778dbdaf.js?8110a0d081be4e167e2cf6b5c6d39e9b, line 1: TypeError: window.Calls is undefined
+1619376697362	Marionette	INFO	Stopped listening on port 45843
+1619376947770	geckodriver	INFO	Listening on 127.0.0.1:46915
+1619376947779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg8HZm1"
+1619376948500	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619376952172	Marionette	INFO	Listening on port 45785
+1619376952277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st.vk.com/js/cmodules/web/notifier.a2f0e41eadfe778dbdaf.js?8110a0d081be4e167e2cf6b5c6d39e9b, line 1: TypeError: window.Calls is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619378176948	geckodriver	INFO	Listening on 127.0.0.1:47545
+1619378176957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6fQsFM"
+1619378177754	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619378181172	Marionette	INFO	Listening on port 42969
+1619378181262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st.vk.com/js/cmodules/web/notifier.a2f0e41eadfe778dbdaf.js?8110a0d081be4e167e2cf6b5c6d39e9b, line 1: TypeError: window.Calls is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619378932600	geckodriver	INFO	Listening on 127.0.0.1:60423
+1619378932609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5ejOoe"
+*** You are running in headless mode.
+1619378934303	Marionette	INFO	Marionette enabled
+
+(/usr/lib64/firefox/firefox:8567): GLib-GObject-CRITICAL **: 15:28:55.534: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:8583): GLib-GObject-CRITICAL **: 15:28:55.787: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:8645): GLib-GObject-CRITICAL **: 15:28:57.216: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619378937819	Marionette	INFO	Listening on port 41257
+1619378937892	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:8677): GLib-GObject-CRITICAL **: 15:28:57.909: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://st.vk.com/js/cmodules/web/notifier.a2f0e41eadfe778dbdaf.js?8110a0d081be4e167e2cf6b5c6d39e9b, line 1: TypeError: window.Calls is undefined
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1619379329983	Marionette	INFO	Stopped listening on port 41257
+1619380256737	geckodriver	INFO	Listening on 127.0.0.1:49511
+1619380256750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXqw0KG"
+*** You are running in headless mode.
+1619380257503	Marionette	INFO	Marionette enabled
+
+(/usr/lib64/firefox/firefox:9492): GLib-GObject-CRITICAL **: 15:50:58.577: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:9508): GLib-GObject-CRITICAL **: 15:50:59.250: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:9632): GLib-GObject-CRITICAL **: 15:51:02.069: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:9664): GLib-GObject-CRITICAL **: 15:51:02.718: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619380262777	Marionette	INFO	Listening on port 39693
+1619380262943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.0ed9a93ab8282a32e38d.js?a7659e54231823e7bd68a47490c1fffa, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1619380308802	Marionette	INFO	Stopped listening on port 39693
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1619380729502	geckodriver	INFO	Listening on 127.0.0.1:40557
+1619380729537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU0wOEF"
+1619380730536	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619380735252	Marionette	INFO	Listening on port 34183
+1619380735389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st.vk.com/js/cmodules/bundles/evbus.f62d6f201054d4f5cc1e.js?419b72a44fb4fc8d5508, line 1: TypeError: t is null
+JavaScript error: https://st.vk.com/js/cmodules/bundles/evbus.f62d6f201054d4f5cc1e.js?419b72a44fb4fc8d5508, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://st.vk.com/js/cmodules/bundles/a58d82189c86683d1537440222ca7fad.11a553aa5ec6e37cd347.js?c223296ff5446dd5bcca, line 1: TypeError: n is null
+JavaScript error: https://st.vk.com/js/cmodules/bundles/evbus.f62d6f201054d4f5cc1e.js?419b72a44fb4fc8d5508, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://st.vk.com/js/cmodules/bundles/a58d82189c86683d1537440222ca7fad.11a553aa5ec6e37cd347.js?c223296ff5446dd5bcca, line 1: TypeError: n is null
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619380759937	Marionette	INFO	Stopped listening on port 34183
+1619380852588	geckodriver	INFO	Listening on 127.0.0.1:38799
+1619380852596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKOQH73"
+1619380853419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619380857167	Marionette	INFO	Listening on port 41617
+1619380857317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st.vk.com/js/cmodules/web/notifier.a2f0e41eadfe778dbdaf.js?8110a0d081be4e167e2cf6b5c6d39e9b, line 1: TypeError: window.Calls is undefined
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=38.4834) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=39.4374) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=41.3167) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1619381528284	geckodriver	INFO	Listening on 127.0.0.1:38323
+1619381528296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYPHhhj"
+1619381529038	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619381533439	Marionette	INFO	Listening on port 34661
+1619381533702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619381562258	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=51.6213) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=54.0986) Exiting due to channel error.
