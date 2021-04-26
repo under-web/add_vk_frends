@@ -14,8 +14,8 @@ def sender_vk_spam():
 
     phone = input('Enter your phone or email: ')
     if phone == '':
-        phone = '+79870674092'
-        password = 'Berserkdao000'
+        phone = ''
+        password = ''
         message_file = 'message.txt'
 
 
@@ -108,8 +108,8 @@ def get_vk_friends():
 
     # phone = input('Enter your phone or email: ')
     # if phone == '':
-    # phone = '+79870674092'
-    # password = 'Berserkdao000'
+    # phone = ''
+    # password = ''
     #
     # while True:  # зацикливаем авторизацию на случай падения selenium драйвера
     #     try:
