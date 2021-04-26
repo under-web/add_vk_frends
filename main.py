@@ -10,8 +10,8 @@ def sender_vk_spam():
 
     phone = input('Enter your phone or email: ')
     if phone == '':
-        phone = '+79870674092'
-        password = 'Berserkdao'
+        phone = ''
+        password = ''
         message_file = 'message.txt'
 
 
@@ -47,6 +47,7 @@ def sender_vk_spam():
         if nbr == 8:
             nbr = 0
             print('Обновил переменную')
+            # get_vk_friends()
         else:
             pass
         vk_frend_group = ['dobav_like_repost_piar',
@@ -65,15 +66,11 @@ def sender_vk_spam():
             time.sleep(3)
             browser.switch_to.window(browser.window_handles[vkl])
             time.sleep(3)
-            # TODO: Добавить отсчет отправленых сообщений
-            # TODO: Добавить поочередное обращение к разным группам
             # TODO: Настроить прокси решение https://coderoad.ru/18719980/%D0%9F%D1%80%D0%BE%D0%BA%D1%81%D0%B8-Selenium-Python-Firefox
-            # TODO: библиотека python прокси
             # TODO: написать автоприем друзей
             # TODO: записать поиск боксов в отдельную функцию
             # TODO: написать автоотправку заявок в друзья
             # TODO: добавить время отправки сообщений в лог
-            # TODO: добавить отправку своих сообщений в переменно в коментарии и на стены разных групп
             # TODO: Что то с драйвером Message: Element <div id="post_field" class="submit_post_field dark submit_post_inited"> is not clickable at point (661,537) because another element <div id="box_layer_wrap" class="scroll_fix_wrap fixed"> obscures it
 
 
@@ -112,10 +109,77 @@ def sender_vk_spam():
         #     browser.close()
         #     browser.quit()
 
+def get_vk_friends():
+        global browser
 
+        # phone = input('Enter your phone or email: ')
+        # if phone == '':
+        phone = ''
+        password = ''
+
+        while True:  # зацикливаем авторизацию на случай падения selenium драйвера
+            try:
+                opts = Options()
+                opts.headless = True
+                assert opts.headless
+
+                # browser = webdriver.Firefox(options=opts)
+                browser = webdriver.Firefox()
+                browser.get('https://vk.com/')
+                time.sleep(1)
+                browser.find_element_by_id('index_email').send_keys(phone)
+                browser.find_element_by_id('index_pass').send_keys(password)
+
+                time.sleep(1)
+                browser.find_element_by_id('index_login_button').click()
+                print('Авторизовался')
+                time.sleep(12)
+                break
+            except Exception as err:
+                print('Проблема с авторизацией', err)
+                time.sleep(10)
+        try:
+            browser.execute_script("window.open('https://vk.com/friends?section=requests');")
+            time.sleep(3)
+            browser.switch_to.window(browser.window_handles[1])
+            time.sleep(3)
+            browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(3)
+            buttons_add = browser.find_elements_by_class_name('flat_button.button_small')
+            time.sleep(3)
+            possible_friends = browser.find_elements_by_class_name('friends_possible_link')
+
+            ask = 1
+            for button in buttons_add:
+                try:
+                    button.click()
+
+                    print(f'Принял заявку № {ask}')
+                    ask += 1
+                    time.sleep(3)
+                    browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                    time.sleep(1)
+                except Exception:
+                    pass
+            fri = 1
+            for link in possible_friends:
+                try:
+                    link.click()
+                    print(f'Добавил {fri} друга')
+                    fri += 1
+                    time.sleep(5)
+                except Exception as e:
+                    print('Проблема в цикле ссылок')
+
+
+
+        except Exception as e:
+            print(e)
+        finally:
+            browser.close()
 def main():
-    sender_vk_spam()
-
+    # sender_vk_spam()
+    get_vk_friends()
 
 if __name__ == '__main__':
     main()
