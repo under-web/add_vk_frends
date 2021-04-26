@@ -30,8 +30,8 @@ def sender_vk_spam():
             opts.headless = True
             assert opts.headless
 
-            browser = webdriver.Firefox(options=opts)
-            # browser = webdriver.Firefox()
+            #browser = webdriver.Firefox(options=opts)
+            browser = webdriver.Firefox()
             browser.get('https://vk.com/')
             time.sleep(1)
             browser.find_element_by_id('index_email').send_keys(phone)
@@ -101,7 +101,9 @@ def sender_vk_spam():
             time.sleep(3)
             continue
 
-
+        finally:
+            browser.close()
+            browser.quit()
 def get_vk_friends():
     """Функция приема заявок в друзья и добавление  возможных друзей"""
     # global browser
@@ -169,7 +171,10 @@ def get_vk_friends():
 
 
 def main():
+    
     sender_vk_spam()
+
+
     # get_vk_friends()
 
 

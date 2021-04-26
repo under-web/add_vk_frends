@@ -3685,3 +3685,20 @@ console.error: services.settings:
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1619474711630	geckodriver	INFO	Listening on 127.0.0.1:53817
+1619474711646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2wS3U2"
+1619474714030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619474725465	Marionette	INFO	Listening on port 41071
+1619474727072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st.vk.com/js/cmodules/web/notifier.1446877c584a0be77f6f.js?7b39a27876c959ef725e381b6227a401, line 1: TypeError: window.Calls is undefined
+1619474772137	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
