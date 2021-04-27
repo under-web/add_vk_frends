@@ -1,28 +1,28 @@
 import time
 import random
 import selenium
+import datetime
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
 
 # TODO: Настроить прокси решение https://coderoad.ru/18719980/%D0%9F%D1%80%D0%BE%D0%BA%D1%81%D0%B8-Selenium-Python-Firefox
 # TODO: записать поиск боксов в отдельную функцию
-# TODO: добавить время отправки сообщений в лог
 
 def sender_vk_spam():
     global browser
-
+    now = datetime.datetime.now()
     phone = input('Enter your phone or email: ')
     if phone == '':
-        phone = ''
-        password = ''
+        phone = '+79870674092'
+        password = 'Berserkdao000'
         message_file = 'message.txt'
 
 
     else:
         password = input('Enter your password: ')
         message_file = input('Enter path to file: ')
-        iteration = input('Enter how iteration: ')
+
 
     while True:  # зацикливаем авторизацию на случай падения selenium драйвера
         try:
@@ -30,8 +30,8 @@ def sender_vk_spam():
             opts.headless = True
             assert opts.headless
 
-            #browser = webdriver.Firefox(options=opts)
-            browser = webdriver.Firefox()
+            browser = webdriver.Firefox(options=opts)  # скрываем браузер от пользователя
+            # browser = webdriver.Firefox()
             browser.get('https://vk.com/')
             time.sleep(1)
             browser.find_element_by_id('index_email').send_keys(phone)
@@ -45,7 +45,7 @@ def sender_vk_spam():
         except Exception as err:
             print('Проблема с авторизацией', err)
             time.sleep(10)
-    nbr = 14
+    nbr = 15
     while True:
         if nbr == 15:
             nbr = 0
@@ -87,7 +87,7 @@ def sender_vk_spam():
 
             time.sleep(1)
             browser.find_element_by_id('send_post').click()
-            print(f'{nbr} сообщение отправлено в {vk_frend_group[nbr]}')
+            print(f'{nbr} сообщение отправлено в {vk_frend_group[nbr]} [{now.hour}:{now.minute}]')
             time.sleep(random.randint(120, 380))
             nbr += 1
         except selenium.common.exceptions.WebDriverException as e:
@@ -101,39 +101,9 @@ def sender_vk_spam():
             time.sleep(3)
             continue
 
-        finally:
-            browser.close()
-            browser.quit()
+
 def get_vk_friends():
     """Функция приема заявок в друзья и добавление  возможных друзей"""
-    # global browser
-
-    # phone = input('Enter your phone or email: ')
-    # if phone == '':
-    # phone = ''
-    # password = ''
-    #
-    # while True:  # зацикливаем авторизацию на случай падения selenium драйвера
-    #     try:
-    #         opts = Options()
-    #         opts.headless = True
-    #         assert opts.headless
-    #
-    #         # browser = webdriver.Firefox(options=opts)
-    #         browser = webdriver.Firefox()
-    #         browser.get('https://vk.com/')
-    #         time.sleep(1)
-    #         browser.find_element_by_id('index_email').send_keys(phone)
-    #         browser.find_element_by_id('index_pass').send_keys(password)
-    #
-    #         time.sleep(1)
-    #         browser.find_element_by_id('index_login_button').click()
-    #         print('Авторизовался')
-    #         time.sleep(12)
-    #         break
-    #     except Exception as err:
-    #         print('Проблема с авторизацией', err)
-    #         time.sleep(10)
     try:
         browser.execute_script("window.open('https://vk.com/friends?section=requests');")
         time.sleep(3)
@@ -166,16 +136,18 @@ def get_vk_friends():
             except Exception as e:
                 print('Проблема в цикле ссылок')
 
+
     except Exception as e:
         print(e)
 
 
 def main():
-    
-    sender_vk_spam()
-
-
-    # get_vk_friends()
+    try:
+        sender_vk_spam()
+    except KeyboardInterrupt:
+        print('Закрыл браузер')
+        browser.close()
+        browser.quit()
 
 
 if __name__ == '__main__':
