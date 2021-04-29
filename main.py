@@ -13,8 +13,8 @@ def sender_vk_spam():
     now = datetime.datetime.now()
     phone = input('Enter your phone or email: ')
     if phone == '':
-        phone = '+79870674092'
-        password = 'Berserkdao000'
+        phone = ''
+        password = ''
         message_file = 'message.txt'
 
 
