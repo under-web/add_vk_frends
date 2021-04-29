@@ -6,7 +6,6 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
 
-# TODO: Настроить прокси решение https://coderoad.ru/18719980/%D0%9F%D1%80%D0%BE%D0%BA%D1%81%D0%B8-Selenium-Python-Firefox
 # TODO: записать поиск боксов в отдельную функцию
 
 def sender_vk_spam():
