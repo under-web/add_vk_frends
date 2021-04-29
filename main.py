@@ -7,20 +7,22 @@ from selenium.webdriver.firefox.options import Options
 
 
 # TODO: Настроить прокси решение https://coderoad.ru/18719980/%D0%9F%D1%80%D0%BE%D0%BA%D1%81%D0%B8-Selenium-Python-Firefox
-# TODO: Message: TypeError: document.body is null
+# TODO: записать поиск боксов в отдельную функцию
+
 def sender_vk_spam():
     global browser
     now = datetime.datetime.now()
     phone = input('Enter your phone or email: ')
     if phone == '':
         phone = '+79870674092'
-        password = 'oblako0'
+        password = 'Berserkdao000'
         message_file = 'message.txt'
 
 
     else:
         password = input('Enter your password: ')
         message_file = input('Enter path to file: ')
+
 
     while True:  # зацикливаем авторизацию на случай падения selenium драйвера
         try:
@@ -38,7 +40,7 @@ def sender_vk_spam():
             time.sleep(1)
             browser.find_element_by_id('index_login_button').click()
             print('Авторизовался')
-            time.sleep(10)
+            time.sleep(20)
             break
         except Exception as err:
             print('Проблема с авторизацией', err)
@@ -85,7 +87,6 @@ def sender_vk_spam():
 
             time.sleep(1)
             browser.find_element_by_id('send_post').click()
-            now = datetime.datetime.now()
             print(f'{nbr} сообщение отправлено в {vk_frend_group[nbr]} [{now.hour}:{now.minute}]')
             time.sleep(random.randint(120, 380))
             nbr += 1
@@ -105,16 +106,16 @@ def get_vk_friends():
     """Функция приема заявок в друзья и добавление  возможных друзей"""
     try:
         browser.execute_script("window.open('https://vk.com/friends?section=requests');")
-        time.sleep(15)
-        browser.switch_to.window(browser.window_handles[-1])
-
         time.sleep(3)
-        for i in range(5):
+        browser.switch_to.window(browser.window_handles[-1])
+        time.sleep(3)
+        for i in range(3):
             browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")  # скроллим вниз
             time.sleep(3)
         buttons_add = browser.find_elements_by_class_name('flat_button.button_small')
         time.sleep(3)
         possible_friends = browser.find_elements_by_class_name('friends_possible_link')
+
         ask = 1
         for button in buttons_add:  # принимаем заявки в друзья
             try:
@@ -138,7 +139,6 @@ def get_vk_friends():
 
     except Exception as e:
         print(e)
-        pass
 
 
 def main():
