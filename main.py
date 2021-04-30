@@ -17,7 +17,6 @@ def sender_vk_spam():
         password = 'oblako0'
         message_file = 'message.txt'
 
-
     else:
         password = input('Enter your password: ')
         message_file = input('Enter path to file: ')
