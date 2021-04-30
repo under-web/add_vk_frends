@@ -6,22 +6,21 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
 
+# TODO: прокси для selenium чтобы запускать паралельно раскрутку
 # TODO: записать поиск боксов в отдельную функцию
 
 def sender_vk_spam():
     global browser
-    now = datetime.datetime.now()
     phone = input('Enter your phone or email: ')
     if phone == '':
         phone = '+79870674092'
-        password = 'Berserkdao000'
+        password = 'oblako0'
         message_file = 'message.txt'
 
 
     else:
         password = input('Enter your password: ')
         message_file = input('Enter path to file: ')
-
 
     while True:  # зацикливаем авторизацию на случай падения selenium драйвера
         try:
@@ -44,9 +43,9 @@ def sender_vk_spam():
         except Exception as err:
             print('Проблема с авторизацией', err)
             time.sleep(10)
-    nbr = 15
+    nbr = 18
     while True:
-        if nbr == 15:
+        if nbr == 19:
             nbr = 0
             print('Обновил переменную')
             get_vk_friends()
@@ -67,7 +66,10 @@ def sender_vk_spam():
                           'dobav_menya_esli_xochesh',
                           'club77713352',
                           'kamdee',
-                          ]
+                          'club100292512',
+                          'club58787677',
+                          'topchik_piarchik',
+                          'club39130136']
         try:
             vkgroup = 'https://vk.com/' + vk_frend_group[nbr]
             browser.execute_script("window.open('{}');".format(vkgroup))
@@ -86,6 +88,7 @@ def sender_vk_spam():
 
             time.sleep(1)
             browser.find_element_by_id('send_post').click()
+            now = datetime.datetime.now()
             print(f'{nbr} сообщение отправлено в {vk_frend_group[nbr]} [{now.hour}:{now.minute}]')
             time.sleep(random.randint(120, 380))
             nbr += 1
@@ -108,7 +111,7 @@ def get_vk_friends():
         time.sleep(3)
         browser.switch_to.window(browser.window_handles[-1])
         time.sleep(3)
-        for i in range(3):
+        for i in range(6):
             browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")  # скроллим вниз
             time.sleep(3)
         buttons_add = browser.find_elements_by_class_name('flat_button.button_small')
