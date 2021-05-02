@@ -95,7 +95,7 @@ def sender_vk_spam():
         except selenium.common.exceptions.WebDriverException as e:
             print('Что то с драйвером', e)
             nbr += 1
-            time.sleep(20)
+            time.sleep(10)
             continue
 
         except Exception as e:
