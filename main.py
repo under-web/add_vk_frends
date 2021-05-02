@@ -42,12 +42,13 @@ def sender_vk_spam():
         except Exception as err:
             print('Проблема с авторизацией', err)
             time.sleep(10)
-    nbr = 18
+    nbr = 19
     while True:
         if nbr == 19:
             nbr = 0
             print('Обновил переменную')
-            get_vk_friends()
+            for p in range(2):
+                get_vk_friends()
         else:
             pass
         vk_frend_group = ['dobav_like_repost_piar',
@@ -105,14 +106,47 @@ def sender_vk_spam():
 
 def get_vk_friends():
     """Функция приема заявок в друзья и добавление  возможных друзей"""
+    phone = input('Enter your phone or email: ')
+    if phone == '':
+        phone = '+79870674092'
+        password = 'oblako0'
+        message_file = 'message.txt'
+
+    else:
+        password = input('Enter your password: ')
+        message_file = input('Enter path to file: ')
+
+    while True:  # зацикливаем авторизацию на случай падения selenium драйвера
+        try:
+            opts = Options()
+            opts.headless = True
+            assert opts.headless
+
+            browser = webdriver.Firefox(options=opts)  # скрываем браузер от пользователя
+            # browser = webdriver.Firefox()
+            browser.get('https://vk.com/')
+            time.sleep(1)
+            browser.find_element_by_id('index_email').send_keys(phone)
+            browser.find_element_by_id('index_pass').send_keys(password)
+
+            time.sleep(1)
+            browser.find_element_by_id('index_login_button').click()
+            print('Авторизовался')
+            time.sleep(10)
+            # main_page = browser.page_source
+            # print(main_page)
+            break
+        except Exception as err:
+            print('Проблема с авторизацией', err)
+            time.sleep(10)
     try:
         browser.execute_script("window.open('https://vk.com/friends?section=requests');")
-        time.sleep(3)
+        time.sleep(7)
         browser.switch_to.window(browser.window_handles[-1])
-        time.sleep(3)
-        for i in range(6):
+        time.sleep(7)
+        for i in range(7):
             browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")  # скроллим вниз
-            time.sleep(3)
+            time.sleep(5)
         buttons_add = browser.find_elements_by_class_name('flat_button.button_small')
         time.sleep(3)
         possible_friends = browser.find_elements_by_class_name('friends_possible_link')
@@ -149,7 +183,12 @@ def main():
         print('Закрыл браузер')
         browser.close()
         browser.quit()
-
+    # try:
+    #     get_vk_friends()
+    # except KeyboardInterrupt:
+    #     print('Закрыл браузер')
+    #     browser.close()
+    #     browser.quit()
 
 if __name__ == '__main__':
     main()
