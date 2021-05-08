@@ -5,6 +5,7 @@ import datetime
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
+
 def sender_vk_spam():
     global browser
     phone = input('Enter your phone or email: ')
@@ -90,7 +91,7 @@ def sender_vk_spam():
         except selenium.common.exceptions.WebDriverException as e:
             print('Что то с драйвером', e)
             nbr += 1
-            time.sleep(10)
+            time.sleep(15)
             continue
 
         except Exception as e:
@@ -99,7 +100,7 @@ def sender_vk_spam():
             continue
 
 
-def get_vk_friends(add_friends=None, ask_friends=None):
+def get_vk_friends(add_friends=None, add_possible_friends=None):
     """
     Функция приема заявок в друзья и добавление  возможных друзей
     add_friends=None:  True только если нужно принять все заявки
@@ -134,8 +135,6 @@ def get_vk_friends(add_friends=None, ask_friends=None):
                 browser.find_element_by_id('index_login_button').click()
                 print('Авторизовался')
                 time.sleep(10)
-                # main_page = browser.page_source
-                # print(main_page)
                 break
             except Exception as err:
                 print('Проблема с авторизацией', err)
@@ -164,7 +163,7 @@ def get_vk_friends(add_friends=None, ask_friends=None):
             except Exception:
                 pass
 
-        if ask_friends:
+        if add_possible_friends:
             fri = 1
             for link in possible_friends:  # добавляем возможных друзей
                 try:
@@ -194,6 +193,7 @@ def main():
     #     print('Закрыл браузер')
     #     browser.close()
     #     browser.quit()
+
 
 if __name__ == '__main__':
     main()
