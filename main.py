@@ -26,6 +26,7 @@ def sender_vk_spam():
 
             browser = webdriver.Firefox(options=opts)  # скрываем браузер от пользователя
             # browser = webdriver.Firefox()
+            # TODO: добавить дебагинг
             browser.get('https://vk.com/')
             time.sleep(1)
             browser.find_element_by_id('index_email').send_keys(phone)
