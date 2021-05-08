@@ -10,8 +10,8 @@ def sender_vk_spam():
     global browser
     phone = input('Enter your phone or email: ')
     if phone == '':
-        phone = '89656250468'
-        password = 'berserkdao11vk'
+        phone = ''
+        password = ''
         message_file = 'message.txt'
 
     else:
@@ -111,8 +111,8 @@ def get_vk_friends(add_friends=None, add_possible_friends=None):
     if add_friends:
         phone = input('Enter your phone or email: ')
         if phone == '':
-            phone = '+79870674092'
-            password = 'oblako0'
+            phone = ''
+            password = ''
             message_file = 'message.txt'
 
         else:
