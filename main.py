@@ -5,19 +5,11 @@ import datetime
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
-
+# TODO: описать как класс для удобства работы с др. проектами (боты)
 def sender_vk_spam():
-    global browser
-    phone = input('Enter your phone or email: ')
-    if phone == '':
-        phone = '89656250468'
-        password = 'berserkdao11vk'
-        message_file = 'message.txt'
-
-    else:
-        password = input('Enter your password: ')
-        message_file = input('Enter path to file: ')
-
+    phone = '89656250468'
+    password = 'VG9Xfgi8EA'
+    message_file = 'message.txt'
     while True:  # зацикливаем авторизацию на случай падения selenium драйвера
         try:
             opts = Options()
@@ -26,7 +18,7 @@ def sender_vk_spam():
 
             browser = webdriver.Firefox(options=opts)  # скрываем браузер от пользователя
             # browser = webdriver.Firefox()
-            # TODO: добавить дебагинг
+            # TODO: добавить дебагингЧто то с драйвером Message: Element <div id="post_field" class="submit_post_field dark submit_post_inited"> is not clickable at point (661,585) because another element <div id="box_layer_wrap" class="scroll_fix_wrap fixed"> obscures i
             browser.get('https://vk.com/')
             time.sleep(1)
             browser.find_element_by_id('index_email').send_keys(phone)
@@ -40,7 +32,7 @@ def sender_vk_spam():
         except Exception as err:
             print('Проблема с авторизацией', err)
             time.sleep(10)
-    nbr = 19
+    nbr = 10
     while True:
         if nbr == 19:
             nbr = 0
@@ -143,6 +135,7 @@ def get_vk_friends(add_friends=None, add_possible_friends=None):
     else:
         pass
     try:
+        time.sleep(5)
         browser.execute_script("window.open('https://vk.com/friends?section=requests');")
         time.sleep(10)
         browser.switch_to.window(browser.window_handles[-1])
