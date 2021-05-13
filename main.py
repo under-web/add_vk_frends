@@ -156,7 +156,6 @@ def get_vk_friends(add_friends=None, add_possible_friends=None):
                 time.sleep(3)
             except Exception:
                 pass
-
         if add_possible_friends:
             fri = 1
             for link in possible_friends:  # добавляем возможных друзей
