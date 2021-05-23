@@ -7,6 +7,7 @@ from selenium.webdriver.firefox.options import Options
 
 # TODO: описать как класс для удобства работы с др. проектами (боты)
 def sender_vk_spam():
+    global browser
     phone = '89656250468'
     password = 'VG9Xfgi8EA'
     message_file = 'message.txt'
@@ -32,7 +33,7 @@ def sender_vk_spam():
         except Exception as err:
             print('Проблема с авторизацией', err)
             time.sleep(10)
-    nbr = 10
+    nbr = 19
     while True:
         if nbr == 19:
             nbr = 0
@@ -82,6 +83,7 @@ def sender_vk_spam():
             time.sleep(random.randint(120, 380))
             nbr += 1
         except selenium.common.exceptions.WebDriverException as e:
+            # TODO: может быть здесь сделать сброс программы через сторонний скрипт или через новую функцию.
             print('Что то с драйвером', e)
             nbr += 1
             time.sleep(15)
