@@ -15,7 +15,7 @@ def sender_vk_spam(min_pause=100, max_pause=260, only_accepts=False, debaging=Fa
     global browser
 
     phone = '89656250468'
-    password = 'd7b970a875'
+    password = 'd7b970a'
     message_file = 'message.txt'
     pause_random = random.randint(min_pause, max_pause)
     while True:  # зацикливаем авторизацию на случай падения selenium драйвера
