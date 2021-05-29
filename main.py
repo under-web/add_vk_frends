@@ -5,21 +5,27 @@ import datetime
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
+
 # TODO: описать как класс для удобства работы с др. проектами (боты)
 def sender_vk_spam():
+    """
+    Функция для отправки сообщений в группы вк из файла
+    :return: запускает get_vk_friends
+    """
     global browser
+
     phone = '89656250468'
     password = 'VG9Xfgi8EA'
     message_file = 'message.txt'
+
     while True:  # зацикливаем авторизацию на случай падения selenium драйвера
         try:
             opts = Options()
             opts.headless = True
             assert opts.headless
 
-            browser = webdriver.Firefox(options=opts)  # скрываем браузер от пользователя
-            # browser = webdriver.Firefox()
-            # TODO: добавить дебагингЧто то с драйвером Message: Element <div id="post_field" class="submit_post_field dark submit_post_inited"> is not clickable at point (661,585) because another element <div id="box_layer_wrap" class="scroll_fix_wrap fixed"> obscures i
+            # browser = webdriver.Firefox(options=opts)  # скрываем браузер от пользователя
+            browser = webdriver.Firefox()
             browser.get('https://vk.com/')
             time.sleep(1)
             browser.find_element_by_id('index_email').send_keys(phone)
@@ -33,6 +39,7 @@ def sender_vk_spam():
         except Exception as err:
             print('Проблема с авторизацией', err)
             time.sleep(10)
+
     nbr = 19
     while True:
         if nbr == 19:
@@ -83,7 +90,6 @@ def sender_vk_spam():
             time.sleep(random.randint(120, 380))
             nbr += 1
         except selenium.common.exceptions.WebDriverException as e:
-            # TODO: может быть здесь сделать сброс программы через сторонний скрипт или через новую функцию.
             print('Что то с драйвером', e)
             nbr += 1
             time.sleep(15)
@@ -95,58 +101,64 @@ def sender_vk_spam():
             continue
 
 
-def get_vk_friends(add_friends=None, add_possible_friends=None):
+# =====================================================================================================================
+
+def get_vk_friends(add_possible_friends=None):
     """
     Функция приема заявок в друзья и добавление  возможных друзей
-    add_friends=None:  True только если нужно принять все заявки
-    ask_friends=None:  True если нужно добавить возможных друзей
     """
     global browser
-    if add_friends:
-        phone = input('Enter your phone or email: ')
-        if phone == '':
-            phone = '+79870674092'
-            password = 'oblako0'
-            message_file = 'message.txt'
-
-        else:
-            password = input('Enter your password: ')
-            message_file = input('Enter path to file: ')
-
-        while True:  # зацикливаем авторизацию на случай падения selenium драйвера
-            try:
-                opts = Options()
-                opts.headless = True
-                assert opts.headless
-
-                browser = webdriver.Firefox(options=opts)  # скрываем браузер от пользователя
-                # browser = webdriver.Firefox()
-                browser.get('https://vk.com/')
-                time.sleep(1)
-                browser.find_element_by_id('index_email').send_keys(phone)
-                browser.find_element_by_id('index_pass').send_keys(password)
-
-                time.sleep(1)
-                browser.find_element_by_id('index_login_button').click()
-                print('Авторизовался')
-                time.sleep(10)
-                break
-            except Exception as err:
-                print('Проблема с авторизацией', err)
-                time.sleep(10)
-    else:
-        pass
+    # if add_friends:
+    #     phone = input('Enter your phone or email: ')
+    #     if phone == '':
+    #         phone = '+79870674092'
+    #         password = 'oblako0'
+    #         message_file = 'message.txt'
+    #
+    #     else:
+    #         password = input('Enter your password: ')
+    #         message_file = input('Enter path to file: ')
+    #
+    #     while True:  # зацикливаем авторизацию на случай падения selenium драйвера
+    #         try:
+    #             opts = Options()
+    #             opts.headless = True
+    #             assert opts.headless
+    #
+    #             browser = webdriver.Firefox(options=opts)  # скрываем браузер от пользователя
+    #             # browser = webdriver.Firefox()
+    #             browser.get('https://vk.com/')
+    #             time.sleep(1)
+    #             browser.find_element_by_id('index_email').send_keys(phone)
+    #             browser.find_element_by_id('index_pass').send_keys(password)
+    #
+    #             time.sleep(1)
+    #             browser.find_element_by_id('index_login_button').click()
+    #             print('Авторизовался')
+    #             time.sleep(10)
+    #             break
+    #         except Exception as err:
+    #             print('Проблема с авторизацией', err)
+    #             time.sleep(10)
+    # else:
+    #     pass
     try:
         time.sleep(5)
         browser.execute_script("window.open('https://vk.com/friends?section=requests');")
-        time.sleep(10)
+
+        time.sleep(17)
+
         browser.switch_to.window(browser.window_handles[-1])
         time.sleep(7)
-        for i in range(7):
-            browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")  # скроллим вниз
+
+        for i in range(10):  # скроллим вниз
+            browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(5)
+
         buttons_add = browser.find_elements_by_class_name('flat_button.button_small')
+        # print('Нашел кнопки принять заявку', buttons_add)
         time.sleep(3)
+
         possible_friends = browser.find_elements_by_class_name('friends_possible_link')
 
         ask = 1
@@ -155,10 +167,15 @@ def get_vk_friends(add_friends=None, add_possible_friends=None):
                 button.click()
                 print(f'Принял заявку № {ask}')
                 ask += 1
-                time.sleep(3)
+                time.sleep(5)
             except Exception:
                 pass
-        if add_possible_friends:
+                # if 'The element reference' in err:
+                #     pass
+                # else:
+                #     pass
+
+        if add_possible_friends:  # если значение аргумента ф-ции True
             fri = 1
             for link in possible_friends:  # добавляем возможных друзей
                 try:
@@ -182,12 +199,6 @@ def main():
         print('Закрыл браузер')
         browser.close()
         browser.quit()
-    # try:
-    #     get_vk_friends()
-    # except KeyboardInterrupt:
-    #     print('Закрыл браузер')
-    #     browser.close()
-    #     browser.quit()
 
 
 if __name__ == '__main__':
