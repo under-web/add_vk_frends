@@ -48,7 +48,7 @@ def sender_vk_spam(only_accepts=False, debaging=False):
             nbr = 19
             print('Режим приема заявок в друзья')
             get_vk_friends()  # Запускаем ф-цию для приема заявок в друзья
-        else:
+        elif nbr == 19:
             nbr = 0
             print('Обновил переменную')
             get_vk_friends()  # Запускаем ф-цию для приема заявок в друзья
