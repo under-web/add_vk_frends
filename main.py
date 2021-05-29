@@ -7,7 +7,7 @@ from selenium.webdriver.firefox.options import Options
 
 
 # TODO: описать как класс для удобства работы с др. проектами (боты)
-def sender_vk_spam():
+def sender_vk_spam(only_accepts=False, debaging=False):
     """
     Функция для отправки сообщений в группы вк из файла
     :return: запускает get_vk_friends
@@ -15,7 +15,7 @@ def sender_vk_spam():
     global browser
 
     phone = '89656250468'
-    password = 'VG9Xfgi8EA'
+    password = 'd7b970a875'
     message_file = 'message.txt'
 
     while True:  # зацикливаем авторизацию на случай падения selenium драйвера
@@ -23,9 +23,11 @@ def sender_vk_spam():
             opts = Options()
             opts.headless = True
             assert opts.headless
+            if debaging:
+                browser = webdriver.Firefox()
+            else:
+                browser = webdriver.Firefox(options=opts)  # скрываем браузер от пользователя
 
-            # browser = webdriver.Firefox(options=opts)  # скрываем браузер от пользователя
-            browser = webdriver.Firefox()
             browser.get('https://vk.com/')
             time.sleep(1)
             browser.find_element_by_id('index_email').send_keys(phone)
@@ -42,12 +44,15 @@ def sender_vk_spam():
 
     nbr = 19
     while True:
-        if nbr == 19:
+        if nbr == 19 and only_accepts:
+            nbr = 19
+            print('Режим приема заявок в друзья')
+            get_vk_friends()  # Запускаем ф-цию для приема заявок в друзья
+        else:
             nbr = 0
             print('Обновил переменную')
             get_vk_friends()  # Запускаем ф-цию для приема заявок в друзья
-        else:
-            pass
+
         vk_frend_group = ['dobav_like_repost_piar',
                           'tomanyfriends',
                           'dobav_v_druzya_likeme',
@@ -103,7 +108,7 @@ def sender_vk_spam():
 
 # =====================================================================================================================
 
-def get_vk_friends(add_possible_friends=None):
+def get_vk_friends(add_possible_friends=False):
     """
     Функция приема заявок в друзья и добавление  возможных друзей
     """
