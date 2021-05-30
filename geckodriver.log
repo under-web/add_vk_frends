@@ -20120,3 +20120,508 @@ JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1622366446661	geckodriver	INFO	Listening on 127.0.0.1:50579
+1622366446670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiujhJ4"
+*** You are running in headless mode.
+1622366447387	Marionette	INFO	Marionette enabled
+
+(/usr/lib64/firefox/firefox:5823): GLib-GObject-CRITICAL **: 12:20:48.094: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:5839): GLib-GObject-CRITICAL **: 12:20:48.322: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:5901): GLib-GObject-CRITICAL **: 12:20:49.543: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622366450208	Marionette	INFO	Listening on port 36539
+
+(/usr/lib64/firefox/firefox:5934): GLib-GObject-CRITICAL **: 12:20:50.330: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622366450335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622369602743	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622369602747	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622372126895	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622372126898	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622372126901	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622372426283	geckodriver	INFO	Listening on 127.0.0.1:36905
+1622372426302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehG8AM5"
+*** You are running in headless mode.
+1622372427175	Marionette	INFO	Marionette enabled
+
+(/usr/lib64/firefox/firefox:28297): GLib-GObject-CRITICAL **: 14:00:27.981: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:28314): GLib-GObject-CRITICAL **: 14:00:28.195: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:28391): GLib-GObject-CRITICAL **: 14:00:29.563: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622372430287	Marionette	INFO	Listening on port 35755
+1622372430373	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:28428): GLib-GObject-CRITICAL **: 14:00:30.425: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622374907203	geckodriver	INFO	Listening on 127.0.0.1:35027
+1622374907224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilervqqjw"
+*** You are running in headless mode.
+1622374908376	Marionette	INFO	Marionette enabled
+
+(/usr/lib64/firefox/firefox:2624): GLib-GObject-CRITICAL **: 14:41:49.659: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:2641): GLib-GObject-CRITICAL **: 14:41:49.960: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2706): GLib-GObject-CRITICAL **: 14:41:51.580: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622374912148	Marionette	INFO	Listening on port 45115
+1622374912243	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:2739): GLib-GObject-CRITICAL **: 14:41:52.304: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://st.vk.com/js/cmodules/bundles/common.81f1e5dc63b892cf22db.js?188ebef50b8f2f528159, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://st.vk.com/js/cmodules/bundles/evbus.db620810d528de983a46.js?ee27312926fddca49e6a, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://st.vk.com/js/cmodules/bundles/evbus.db620810d528de983a46.js?ee27312926fddca49e6a, line 1: NS_ERROR_NOT_INITIALIZED: 
+1622388611705	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622388611708	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622388611710	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622388611719	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622392673174	geckodriver	INFO	Listening on 127.0.0.1:48757
+1622392673214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeJSkvU"
+1622392674727	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622392679200	Marionette	INFO	Listening on port 44441
+1622392679311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1622392708149	geckodriver	INFO	Listening on 127.0.0.1:58865
+1622392708161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez53dDH"
+1622392709787	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622392714002	Marionette	INFO	Listening on port 33531
+1622392715567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622392778189	geckodriver	INFO	Listening on 127.0.0.1:49681
+1622392778199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRRcO31"
+1622392779032	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622392782712	Marionette	INFO	Listening on port 36207
+1622392782855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker24, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:285:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3735:24\ndestroy@resource://devtools/client/framework/toolbox.js:3669:10\ncloseToolbox@resource://devtools/client/framework/toolbox.js:3645:16\nonClick@resource://devtools/client/framework/components/ToolboxToolbar.js:456:26\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 99))
+JavaScript error: https://vk.com/al_friends.php?__query=friends&_ref=left_nav&_rndVer=71628&al=-1&al_id=524647441, line 12: TypeError: parent is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn1.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn1.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 571))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn1.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:571:5)", "resource://devtools/shared/protocol/Front.js", 358))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+1622393729329	geckodriver	INFO	Listening on 127.0.0.1:52315
+1622393730255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef0FbYB"
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn1.child4/domwalker24, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:285:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3735:24\ndestroy@resource://devtools/client/framework/toolbox.js:3669:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:689:17\nhandleEvent@resource://devtools/client/framework/devtools-browser.js:710:26\n", "resource://devtools/shared/protocol/Front.js", 99))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1622393731615	Marionette	INFO	Stopped listening on port 36207
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622393731965	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622393736137	Marionette	INFO	Listening on port 41449
+1622393737649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1622393761889	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+t@https://vk.com/friends?section=out_requests line 5500 > inlineScript:970:925
+@https://vk.com/friends?section=out_requests line 5500 > inlineScript:970:945
+t@https://vk.com/feed:5500:845
+@https://vk.com/feed:5500:865
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622394212650	geckodriver	INFO	Listening on 127.0.0.1:37829
+1622394212662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHLhg2K"
+1622394213470	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622394217612	Marionette	INFO	Listening on port 38389
+1622394217790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1622394297498	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622394308383	Marionette	INFO	Stopped listening on port 38389
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1622394398395	geckodriver	INFO	Listening on 127.0.0.1:35371
+1622394398403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezqtpbo"
+1622394399250	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622394403668	Marionette	INFO	Listening on port 39353
+1622394403773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1622394476969	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1622394766748	Marionette	INFO	Stopped listening on port 39353
+1622394772122	geckodriver	INFO	Listening on 127.0.0.1:58875
+1622394772130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqwOWcM"
+1622394772880	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622394776743	Marionette	INFO	Listening on port 42027
+1622394776796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1622394953815	geckodriver	INFO	Listening on 127.0.0.1:35007
+1622394953824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileldj3h9"
+1622394954708	Marionette	INFO	Marionette enabled
+1622394955671	Marionette	INFO	Stopped listening on port 42027
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622394959773	Marionette	INFO	Listening on port 39503
+1622394959924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622395763142	geckodriver	INFO	Listening on 127.0.0.1:45037
+1622395763151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWJnVC9"
+1622395764078	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622395767666	Marionette	INFO	Listening on port 33009
+1622395767763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1622396730044	Marionette	INFO	Stopped listening on port 33009
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1622397483421	geckodriver	INFO	Listening on 127.0.0.1:52723
+1622397483438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8RbBf9"
+1622397484227	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622397487985	Marionette	INFO	Listening on port 46791
+1622397489517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+1622398026120	Marionette	INFO	Stopped listening on port 46791
