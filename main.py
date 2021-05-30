@@ -7,7 +7,7 @@ from selenium.webdriver.firefox.options import Options
 
 
 # TODO: описать как класс для удобства работы с др. проектами (боты)
-def sender_vk_spam(min_pause=100, max_pause=260, only_accepts=False, debaging=False):
+def sender_vk_spam(min_pause=100, max_pause=260, only_accepts=False, debuging=False):
     """
     Функция для отправки сообщений в группы вк из файла
     :return: запускает get_vk_friends
@@ -15,7 +15,7 @@ def sender_vk_spam(min_pause=100, max_pause=260, only_accepts=False, debaging=Fa
     global browser
 
     phone = '89656250468'
-    password = 'd7b970a875'
+    password = '62dfc4ecdb'
     message_file = 'message.txt'
     pause_random = random.randint(min_pause, max_pause)
     while True:  # зацикливаем авторизацию на случай падения selenium драйвера
@@ -23,21 +23,23 @@ def sender_vk_spam(min_pause=100, max_pause=260, only_accepts=False, debaging=Fa
             opts = Options()
             opts.headless = True
             assert opts.headless
-            if debaging:
+            if debuging:
                 browser = webdriver.Firefox()
             else:
                 browser = webdriver.Firefox(options=opts)  # скрываем браузер от пользователя
 
-            browser.get('https://vk.com/')
+            browser.get('https://vk.com/')  # открываем страницу
             time.sleep(1)
+
             browser.find_element_by_id('index_email').send_keys(phone)
             browser.find_element_by_id('index_pass').send_keys(password)
-
             time.sleep(1)
+
             browser.find_element_by_id('index_login_button').click()
             print('Авторизовался')
             time.sleep(10)
             break
+
         except Exception as err:
             print('Проблема с авторизацией', err)
             time.sleep(10)
@@ -76,24 +78,31 @@ def sender_vk_spam(min_pause=100, max_pause=260, only_accepts=False, debaging=Fa
             vkgroup = 'https://vk.com/' + vk_frend_group[nbr]
             browser.execute_script("window.open('{}');".format(vkgroup))
             time.sleep(3)
+
+            browser.switch_to.window(browser.window_handles[0])
+            browser.close()
+
             browser.switch_to.window(browser.window_handles[-1])
             time.sleep(3)
+
             browser.find_element_by_xpath('//*[@id="post_field"]').click()
             print('click')
 
             time.sleep(3)
             with open(message_file, 'r', encoding='utf=8') as txt_file:  # выбираем сообщение из файла
                 post_message = random.choice(txt_file.readlines())
-
             time.sleep(1)
-            browser.find_element_by_id('post_field').send_keys(post_message)
 
+            browser.find_element_by_id('post_field').send_keys(post_message)  # печатаем сообщение в группу
             time.sleep(1)
-            browser.find_element_by_id('send_post').click()
+
+            browser.find_element_by_id('send_post').click()  # отправляем сообщение
             now = datetime.datetime.now()
             print(f'{nbr} сообщение отправлено в {vk_frend_group[nbr]} [{now.hour}:{now.minute}]')
             time.sleep(pause_random)
-            nbr += 1
+
+            nbr += 1  # прибавляем к счетчику
+
         except selenium.common.exceptions.WebDriverException as e:
             print('Что то с драйвером', e)
             nbr += 1
@@ -108,7 +117,7 @@ def sender_vk_spam(min_pause=100, max_pause=260, only_accepts=False, debaging=Fa
 
 # =====================================================================================================================
 
-def get_vk_friends(add_possible_friends=False):
+def get_vk_friends(add_possible_friends=True):
     """
     Функция приема заявок в друзья и добавление  возможных друзей
     """
@@ -161,7 +170,6 @@ def get_vk_friends(add_possible_friends=False):
             time.sleep(5)
 
         buttons_add = browser.find_elements_by_class_name('flat_button.button_small')
-        # print('Нашел кнопки принять заявку', buttons_add)
         time.sleep(3)
 
         possible_friends = browser.find_elements_by_class_name('friends_possible_link')
