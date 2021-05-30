@@ -6,8 +6,7 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
 
-# TODO: описать как класс для удобства работы с др. проектами (боты)
-def sender_vk_spam(min_pause=100, max_pause=260, only_accepts=False, debuging=False):
+def sender_vk_spam(min_pause=100, max_pause=260, only_accepts=False, debug=False):
     """
     Функция для отправки сообщений в группы вк из файла
     :return: запускает get_vk_friends
@@ -15,7 +14,7 @@ def sender_vk_spam(min_pause=100, max_pause=260, only_accepts=False, debuging=Fa
     global browser
 
     phone = '89656250468'
-    password = '62dfc4ecdb'
+    password = '62dfc4ecd'
     message_file = 'message.txt'
     pause_random = random.randint(min_pause, max_pause)
     while True:  # зацикливаем авторизацию на случай падения selenium драйвера
@@ -23,7 +22,7 @@ def sender_vk_spam(min_pause=100, max_pause=260, only_accepts=False, debuging=Fa
             opts = Options()
             opts.headless = True
             assert opts.headless
-            if debuging:
+            if debug:
                 browser = webdriver.Firefox()
             else:
                 browser = webdriver.Firefox(options=opts)  # скрываем браузер от пользователя
