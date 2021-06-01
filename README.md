@@ -18,5 +18,5 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Вступайте в [мою группу vk](https://vk.com/for_telegram)
+Вступайте в [мою группу вконтакте](https://vk.com/for_telegram).
 А так же можете [чекнуть мой сайт](https://pythonbot.tilda.ws/), мне будет приятно=)
