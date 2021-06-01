@@ -20625,3 +20625,512 @@ JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.j
 JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
 JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
 1622398026120	Marionette	INFO	Stopped listening on port 46791
+1622399179089	geckodriver	INFO	Listening on 127.0.0.1:60431
+1622399179126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOqmXmL"
+*** You are running in headless mode.
+1622399179997	Marionette	INFO	Marionette enabled
+
+(/usr/lib64/firefox/firefox:104828): GLib-GObject-CRITICAL **: 21:26:20.995: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:104844): GLib-GObject-CRITICAL **: 21:26:21.207: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:104908): GLib-GObject-CRITICAL **: 21:26:22.966: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622399183868	Marionette	INFO	Listening on port 37353
+
+(/usr/lib64/firefox/firefox:104942): GLib-GObject-CRITICAL **: 21:26:24.092: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622399184170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622404675655	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622435946147	geckodriver	INFO	Listening on 127.0.0.1:47685
+1622435946208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY4FnZJ"
+*** You are running in headless mode.
+1622435946941	Marionette	INFO	Marionette enabled
+
+(/usr/lib64/firefox/firefox:7625): GLib-GObject-CRITICAL **: 07:39:07.745: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:7642): GLib-GObject-CRITICAL **: 07:39:07.975: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:7726): GLib-GObject-CRITICAL **: 07:39:09.529: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622435950203	Marionette	INFO	Listening on port 34889
+
+(/usr/lib64/firefox/firefox:7761): GLib-GObject-CRITICAL **: 07:39:10.252: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622435950450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622444912317	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622445419585	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622446177768	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622446177770	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622446927229	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622447213356	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622447741873	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622447741882	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622448013817	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622448520465	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622448956846	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622448979912	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622449747678	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622449747682	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622449747688	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622449747690	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622449747691	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622450755967	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622450830195	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622450838207	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622450838208	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622450838209	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622450935910	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622450970919	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622450970922	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622450970924	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622450970926	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622450970928	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622451237442	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622451343311	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622451343314	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622451343318	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622451357320	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622451357321	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622451357330	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622451357334	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622451357335	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622451428863	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622452612334	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622452612341	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622452612344	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622452612345	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622452612347	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622452612351	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622452612359	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622452612360	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622452612361	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622452897513	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1622452897515	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622471353190	geckodriver	INFO	Listening on 127.0.0.1:56721
+1622471353244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2qeSJF"
+*** You are running in headless mode.
+1622471357170	Marionette	INFO	Marionette enabled
+
+(/usr/lib64/firefox/firefox:11341): GLib-GObject-CRITICAL **: 17:29:19.768: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:11360): GLib-GObject-CRITICAL **: 17:29:20.195: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:11478): GLib-GObject-CRITICAL **: 17:29:24.979: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:11480): GLib-GObject-CRITICAL **: 17:29:25.360: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622471369683	Marionette	INFO	Listening on port 44793
+
+(/usr/lib64/firefox/firefox:11560): GLib-GObject-CRITICAL **: 17:29:29.752: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622471369949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622483846828	geckodriver	INFO	Listening on 127.0.0.1:49359
+1622483846895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZLEYSN"
+*** You are running in headless mode.
+1622483848053	Marionette	INFO	Marionette enabled
+
+(/usr/lib64/firefox/firefox:62942): GLib-GObject-CRITICAL **: 20:57:29.283: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:62959): GLib-GObject-CRITICAL **: 20:57:29.585: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:63044): GLib-GObject-CRITICAL **: 20:57:31.709: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:63078): GLib-GObject-CRITICAL **: 20:57:32.398: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:63080): GLib-GObject-CRITICAL **: 20:57:32.466: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622483852568	Marionette	INFO	Listening on port 46283
+1622483852660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622484787387	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622489289583	geckodriver	INFO	Listening on 127.0.0.1:37019
+1622489289614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUuuPvY"
+*** You are running in headless mode.
+1622489290513	Marionette	INFO	Marionette enabled
+
+(/usr/lib64/firefox/firefox:87317): GLib-GObject-CRITICAL **: 22:28:11.321: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:87333): GLib-GObject-CRITICAL **: 22:28:11.655: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:87405): GLib-GObject-CRITICAL **: 22:28:12.948: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622489293607	Marionette	INFO	Listening on port 38315
+1622489293711	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib64/firefox/firefox:87437): GLib-GObject-CRITICAL **: 22:28:13.758: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+JavaScript error: https://st.vk.com/js/cmodules/web/calls.e758bec60209c85f8990.js?e37ce86030fb4796fae423bb876555f5, line 1: Error: Socket not opened
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622525596678	geckodriver	INFO	Listening on 127.0.0.1:43907
+1622525597676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileriqAA0"
+*** You are running in headless mode.
+1622525598462	Marionette	INFO	Marionette enabled
+
+(/usr/lib64/firefox/firefox:40981): GLib-GObject-CRITICAL **: 08:33:19.361: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:40997): GLib-GObject-CRITICAL **: 08:33:19.618: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:41084): GLib-GObject-CRITICAL **: 08:33:21.313: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622525602202	Marionette	INFO	Listening on port 37077
+
+(/usr/lib64/firefox/firefox:41127): GLib-GObject-CRITICAL **: 08:33:22.226: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622525602264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622527259903	geckodriver	INFO	Listening on 127.0.0.1:38569
+1622527259944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUR0wbo"
+*** You are running in headless mode.
+1622527261187	Marionette	INFO	Marionette enabled
+
+(/usr/lib64/firefox/firefox:41783): GLib-GObject-CRITICAL **: 09:01:02.383: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:41799): GLib-GObject-CRITICAL **: 09:01:02.551: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:41865): GLib-GObject-CRITICAL **: 09:01:03.968: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622527264528	Marionette	INFO	Listening on port 38757
+
+(/usr/lib64/firefox/firefox:41897): GLib-GObject-CRITICAL **: 09:01:04.669: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622527264675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622527340762	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622527366430	geckodriver	INFO	Listening on 127.0.0.1:44063
+1622527366441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBVcmVC"
+1622527367271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622527370782	Marionette	INFO	Listening on port 43029
+1622527370886	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1622527422467	geckodriver	INFO	Listening on 127.0.0.1:46725
+1622527422475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS8NFNe"
+1622527423390	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622527426554	Marionette	INFO	Listening on port 42491
+1622527426619	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1622527624976	geckodriver	INFO	Listening on 127.0.0.1:47981
+1622527624986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePdYMVQ"
+1622527625704	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622527629341	Marionette	INFO	Listening on port 34467
+1622527629458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1622528282861	geckodriver	INFO	Listening on 127.0.0.1:59635
+1622528282870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesNfZa8"
+*** You are running in headless mode.
+1622528283666	Marionette	INFO	Marionette enabled
+
+(/usr/lib64/firefox/firefox:43141): GLib-GObject-CRITICAL **: 09:18:04.418: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib64/firefox/firefox:43157): GLib-GObject-CRITICAL **: 09:18:04.595: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:43219): GLib-GObject-CRITICAL **: 09:18:05.883: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622528286507	Marionette	INFO	Listening on port 36113
+
+(/usr/lib64/firefox/firefox:43251): GLib-GObject-CRITICAL **: 09:18:06.618: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1622528286642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/web/grip.007bfe85786484e97f20.js?6538478f962277172b3a6345ee1f1942, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://st.vk.com/js/cmodules/bundles/9b69690c2f17eb6642dea9531af86fbd.9cf65650314d7c0ceae9.js?af070059d49f959b3e0c, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622529322250	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
