@@ -9,11 +9,14 @@
 
 ## Запуск
 Войдите в папку с проектом в котором расположен файл main.py и введите в консоли:
+Сначала установим зависимости
 ```
 pip install -r requirements.txt
 ```
+Запускаем программу
 ```
 python main.py
 ```
 
-This site was built using [GitHub Pages](https://pages.github.com/)
+Вступайте в [мою группу vk](https://vk.com/for_telegram)
+А так же можете [чекнуть мой сайт](https://pythonbot.tilda.ws/), мне будет приятно=)
