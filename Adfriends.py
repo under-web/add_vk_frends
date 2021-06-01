@@ -11,6 +11,7 @@ class Adfriends:
 
     def sender_vk_spam(self, min_pause=100, max_pause=260,
                        only_accepts_friends=False,
+                       add_possible_friends=False,
                        only_delete_sub=False,
                        debug=False):
         """
@@ -57,11 +58,11 @@ class Adfriends:
             if nbr == 19 and only_accepts_friends:
                 nbr = 19
                 print('Режим приема заявок в друзья')
-                self.get_vk_friends()  # Запускаем ф-цию для приема заявок в друзья
+                self.get_vk_friends(add_possible_friends)  # Запускаем ф-цию для приема заявок в друзья
             elif nbr == 19:
                 nbr = 0
                 print('Обновил переменную')
-                self.get_vk_friends()  # Запускаем ф-цию для приема заявок в друзья
+                self.get_vk_friends(add_possible_friends)  # Запускаем ф-цию для приема заявок в друзья
 
             vk_frend_group = ['dobav_like_repost_piar',
                               'tomanyfriends',
@@ -125,7 +126,7 @@ class Adfriends:
                 time.sleep(3)
                 continue
 
-    def get_vk_friends(self, add_possible_friends=False):
+    def get_vk_friends(self, add_possible_friends):
         """
         Функция приема заявок в друзья и добавление  возможных друзей
         """

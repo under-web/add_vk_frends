@@ -3,3 +3,4 @@
 /.idea/
 /config.py
 /probe.py
+/geckodriver.log
