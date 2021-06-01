@@ -10,7 +10,10 @@
 ## Запуск
 Войдите в папку с проектом в котором расположен файл main.py и введите в консоли:
 ```
+pip install -r requirements.txt
+```
+```
 python main.py
 ```
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 This site was built using [GitHub Pages](https://pages.github.com/)
