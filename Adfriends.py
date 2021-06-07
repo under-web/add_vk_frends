@@ -128,7 +128,7 @@ class Adfriends:
 
     def get_vk_friends(self, add_possible_friends):
         """
-        Функция приема заявок в друзья и добавление  возможных друзей
+        Метод приема заявок в друзья и добавление  возможных друзей
         """
         # global browser
         try:
@@ -239,12 +239,4 @@ class Adfriends:
             exit()
         else:
             pass
-#
-# if __name__ == '__main__':
-#     try:
-#         examle = Adfriends()
-#         examle.sender_vk_spam(debug=True)
-#     except KeyboardInterrupt:
-#         print('Закрыл браузер')
-#         browser.close()
-#         browser.quit()
+
