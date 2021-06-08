@@ -1,2 +1,2 @@
-phone = '89656250468'
-password = '9ff2ba41a363394d38e3483adb805002'
+phone = ''
+password = ''
