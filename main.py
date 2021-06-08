@@ -1,4 +1,4 @@
-from Adfriends import Adfriends
+from VKfriends import VKfriends
 
-lisa = Adfriends()
-lisa.sender_vk_spam(add_possible_friends=True, debug=True)
+lisa = VKfriends()
+lisa.sender_vk_spam()
