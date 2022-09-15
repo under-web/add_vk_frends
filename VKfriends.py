@@ -3,6 +3,7 @@ import random
 import selenium
 import datetime
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from config import phone, password
 
@@ -35,11 +36,11 @@ class VKfriends:
                 browser.get('https://vk.com/')  # открываем страницу
                 time.sleep(1)
 
-                browser.find_element_by_id('index_email').send_keys(phone)
-                browser.find_element_by_id('index_pass').send_keys(password)
+                browser.find_element(By.ID, 'index_email').send_keys(phone)
+                browser.find_element(By.ID, 'index_pass').send_keys(password)
                 time.sleep(1)
 
-                browser.find_element_by_id('index_login_button').click()
+                browser.find_element(By.ID, 'index_login_button').click()
                 print('Авторизовался')
                 time.sleep(10)
                 break
@@ -94,7 +95,7 @@ class VKfriends:
                 browser.switch_to.window(browser.window_handles[-1])
                 time.sleep(3)
 
-                browser.find_element_by_xpath('//*[@id="post_field"]').click()
+                browser.find_element(By.XPATH, '//*[@id="post_field"]').click()
                 print('click')
 
                 time.sleep(3)
@@ -102,10 +103,10 @@ class VKfriends:
                     post_message = random.choice(txt_file.readlines())
                 time.sleep(1)
 
-                browser.find_element_by_id('post_field').send_keys(post_message)  # печатаем сообщение в группу
+                browser.find_element(By.ID, 'post_field').send_keys(post_message)  # печатаем сообщение в группу
                 time.sleep(1)
 
-                browser.find_element_by_id('send_post').click()  # отправляем сообщение
+                browser.find_element(By.ID, 'send_post').click()  # отправляем сообщение
                 now = datetime.datetime.now()
                 print(f'{nbr} сообщение отправлено в {vk_frend_group[nbr]} [{now.hour}:{now.minute}]')
                 time.sleep(pause_random)
@@ -151,10 +152,10 @@ class VKfriends:
                 except Exception as el:
                     print(el)
 
-            buttons_add = browser.find_elements_by_class_name('flat_button.button_small')  # все кнопки "принять заявку"
+            buttons_add = browser.find_elements(By.CLASS_NAME, 'flat_button.button_small')  # все кнопки "принять заявку"
             time.sleep(3)
 
-            possible_friends = browser.find_elements_by_class_name('friends_possible_link')  # возможные друзья
+            possible_friends = browser.find_elements(By.CLASS_NAME, 'friends_possible_link')  # возможные друзья
 
             ask = 1
             for button in buttons_add:  # принимаем заявки в друзья
@@ -216,7 +217,7 @@ class VKfriends:
             except Exception as ek:
                 print(ek)
 
-        out_buttons = browser.find_elements_by_class_name('flat_button.button_small.fl_r')
+        out_buttons = browser.find_elements(By.CLASS_NAME, 'flat_button.button_small.fl_r')
         time.sleep(5)
 
         out = 1
