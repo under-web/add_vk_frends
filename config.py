@@ -1,2 +1,2 @@
-phone = '89393463310'
-password = 'Oblako20'
+phone = 'YOUR_PHONE'
+password = 'PASSWORD'
